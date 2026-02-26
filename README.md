@@ -1,11 +1,10 @@
 # Linux-monitor
-# 🐧 Linux System Monitoring Tool (Mini htop Clone)
+#  Linux System Monitoring Tool (Mini htop Clone)
 
 A Bash-based Linux system monitoring tool that displays real-time system performance statistics in the terminal.
-
 This project is inspired by tools like htop and is designed to monitor system health efficiently using Linux commands and Bash scripting.
 
- 🚀 Features
+  Features
 
 -  CPU Usage Monitoring
 -  RAM Usage Monitoring
@@ -19,7 +18,7 @@ This project is inspired by tools like htop and is designed to monitor system he
 -  High CPU Warning Alert (if usage > 80%)
 
 
- 🛠️ Technologies Used
+  Technologies Used
 
 - Bash Scripting
 - Linux Commands (top, free, df, ps, who, uptime)
